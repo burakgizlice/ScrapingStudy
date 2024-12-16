@@ -1,4 +1,4 @@
-"""Setting up the environment, and learning about how to work with requests."""
+"""Getting the opponents in a table for Khabib's wikipedia page"""
 import requests
 from bs4 import BeautifulSoup
 import json
